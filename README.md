@@ -4,7 +4,7 @@ I'm a security analyst and this is a small portfolio of my personal projects.
 
 **Projects**
 
-- [x] Network Reconnaissance Scanning with Kismet
+- [x] [Network Reconnaissance Scanning with Kismet](https://github.com/SeanPatrickLehey/Network-Reconnaissance-Scanning-with-Kismet)
 - [ ] Elastic Stack Setup and Configuration
 
 **What am I working on?**
