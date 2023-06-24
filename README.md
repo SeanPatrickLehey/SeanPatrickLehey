@@ -8,4 +8,4 @@ I'm a security analyst and this is a small portfolio of my personal projects.
 - [ ] Elastic Stack Setup and Configuration
 
 **What am I working on?**   
-As of June 2023, I'm currently working towards my GIAC GCIH certification, with plans to pursue the GIAC GCFE shortly thereafter.
+As of June 2023, I'm currently working toward my GIAC GCIH certification, with plans to pursue the GIAC GCFE shortly thereafter.
